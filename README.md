@@ -1,2 +1,1 @@
-## This is the git tutorials
-
+## This is the git tutorial
